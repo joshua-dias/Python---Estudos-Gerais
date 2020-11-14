@@ -1,2 +1,9 @@
-# Python---Estudos-Gerais
-Repositório voltado para inclusão de aplicações desenvolvidas para o estudo da linguagem Python.
+# Python - Estudos Gerais
+
+Esta página foi disponibilizada para a apresentação do repositório de estudo da linguagem Python.
+
+Este repositório é mantido pelo: 
+
+* Joshua Dias 
+
+### Desenvolvedor de Sistemas Júnior
